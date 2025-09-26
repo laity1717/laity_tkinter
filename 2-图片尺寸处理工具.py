@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-  python 3.12
+# @Time    : 2025/9/10
+# @Desc    : 图片尺寸处理工具
+# @Author  : laity
+# @Contact : 微信公众号：laity的渗透测试之路
+
+
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox

@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-  python 3.12
+# @Time    : 2025/9/10
+# @Desc    : 图片格式转换工具
+# @Author  : laity
+# @Contact : 微信公众号：laity的渗透测试之路
+
+
 from PIL import Image
 import os
 import tkinter as tk
